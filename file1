@@ -3,4 +3,8 @@ file1 is updated 2nd time
 =======
 file1 is updated
 2
+<<<<<<< HEAD
+>>>>>>> sagar
+=======
+
 >>>>>>> sagar
